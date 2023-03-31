@@ -1,5 +1,6 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=YongjaeHyun-nl-&fontSize=90&desc=Junior%20FE%20Dev🌱&animation=twinkling&fontColor=68b587&theme=merko)
 
+<div align="center"><h1>My Tech Stack</h1></div>
 <!--
 **YongJaeHyun/YongJaeHyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

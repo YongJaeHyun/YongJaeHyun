@@ -1,17 +1,30 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=YongjaeHyun-nl-&fontSize=90&desc=Junior%20FE%20Dev🌱&animation=twinkling&fontColor=68b587&theme=merko)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=YongjaeHyun-nl-&fontSize=90&desc=Junior%20FE%20Dev🌱&animation=twinkling&fontColor=fff)
 
-<div align="center"><h1>My Tech Stack</h1></div>
-<!--
-**YongJaeHyun/YongJaeHyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h1>💡Tech Stack</h1>
+</div>
+<p align="center">   
+  <img src="https://img.shields.io/badge/React-54d1fa?style=flat-square&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ReactNative-34c5ed?style=flat-square&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Recoil-2a5fdf?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyBpZD0iQ2FscXVlXzEiIGRhdGEtbmFtZT0iQ2FscXVlIDEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDI1NS4yMSA2MjMuOTEiPjxkZWZzPjxzdHlsZT4uY2xzLTF7ZmlsbDp3aGl0ZX08L3N0eWxlPjwvZGVmcz48cGF0aCBjbGFzcz0iY2xzLTEiIGQ9Im03NC42MiAyNzcuNDYgMS4yNC0uMTMgMzQuNzgtMy4yOC01My40Ny01OC42NkE5Ni40NyA5Ni40NyAwIDAgMSAzMiAxNTAuM0gzYTEyNS4zIDEyNS4zIDAgMCAwIDMyLjggODQuNTdaTTE3Ny4xMyAzNDdsLTM2IDMuNCA1My4zMiA1OC41MUE5Ni40MSA5Ni40MSAwIDAgMSAyMTkuNjMgNDc0aDI4LjkyYTEyNS4yOCAxMjUuMjggMCAwIDAtMzIuNzYtODQuNTdaIi8+PHBhdGggY2xhc3M9ImNscy0xIiBkPSJNMjUzLjY5IDIzMS42OGMtNi4zMy0zMS4zLTMwLjg5LTU0LjA5LTYyLjU3LTU4LjA3bC02LjM1LS43OWE0OS42MSA0OS42MSAwIDAgMS00My4zNS00OS4xM3YtMjBhNTIuNzUgNTIuNzUgMCAxIDAtMjguOTEtLjM2djIwLjM4YTc4LjU2IDc4LjU2IDAgMCAwIDY4LjY1IDc3LjgybDYuMzYuOGMyMy4yNCAyLjkyIDM0Ljc4IDIwIDM3LjgzIDM1LjFzLS45MyAzNS4zMi0yMS4yMiA0N2E3My44MSA3My44MSAwIDAgMS0zMC4wNiA5LjYybC05NS42NiA5YTEwMi40NSAxMDIuNDUgMCAwIDAtNDEuOCAxMy4zOEM5IDMzMi40NS00LjgxIDM2MyAxLjUyIDM5NC4yOXMzMC44OSA1NC4wOCA2Mi41NyA1OC4wNmw2LjM1LjhhNDkuNiA0OS42IDAgMCAxIDQzLjM1IDQ5LjEydjE4YTUyLjc1IDUyLjc1IDAgMSAwIDI4LjkxLjI2di0xOC4yNmE3OC41NSA3OC41NSAwIDAgMC02OC42NS03Ny44MWwtNi4zNi0uOGMtMjMuMjQtMi45Mi0zNC43OC0yMC4wNS0zNy44My0zNS4xMXMuOTMtMzUuMzIgMjEuMjItNDdhNzMuNjggNzMuNjggMCAwIDEgMzAuMDYtOS42M2w5NS42Ni05YTEwMi40NSAxMDIuNDUgMCAwIDAgNDEuOC0xMy4zOGMyNy42NS0xNi4wMiA0MS40LTQ2LjU0IDM1LjA5LTc3Ljg2WiIvPjwvc3ZnPg==&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-de7523?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nNDAnIGhlaWdodD0nNTUnIHZpZXdCb3g9JzAgMCA0MCA1NScgZmlsbD0nbm9uZScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48cGF0aCBkPSdNMjcuMzM5OCAzNy43MjE5QzI1Ljk5ODUgMzguMTAxNyAyMi45NzczIDM4LjcyMTEgMTguNjU3MSAzOC43MjExQzE0LjQxNzMgMzguNzIxMSAxMC45NTMgMzcuOTk1MyAxMC45NDIyIDM3LjE0MDZDMTAuOTM1IDM2LjU3MjEgMTEuNjIyNCAzNi4zMjQzIDExLjYyMjQgMzYuMzI0M0wxMS41MDAxIDM2LjI1MzNDOS40Njk4NCAzNi42MTIyIDcuNTgzODIgMzcuMTY2OSA3LjU5NDcyIDM3Ljk5NzRDNy42MTM1MiAzOS41MDQ0IDEzLjM3NjUgNDAuNjM2MiAxOC42NDg4IDQwLjYzNjJDMjMuMTMxIDQwLjYzNjIgMjcuNDM1OCAzOS44ODQxIDI5LjM3NzYgMzguODk4OUwyNy4zMzk4IDM3LjcyMTlaTTEzLjAxMTggNDIuMzgxQzEyLjA3MDIgNDIuNTY4NCAxMC4wMTgxIDQzLjAzOTYgMTAuMDE4MSA0NC4wMzc1QzEwLjAxODEgNDUuNDE5OCAxNC40MDg2IDQ2LjQ3ODUgMTguNjQ3MSA0Ni40Nzg1QzI0LjQ3OTQgNDYuNDc4NSAyNi44NjgyIDQ0Ljk3NzggMjYuOTc2MyA0NC45MDAxTDI0LjU1MTIgNDMuNDk3MUMyMy41MTk5IDQzLjc0MjggMjEuNzgyMSA0NC4xMjg5IDE4LjY1MjkgNDQuMTI4OUMxNS4xNjA2IDQ0LjEyODkgMTIuODg1MyA0My41MzA4IDEyLjg4NTMgNDIuODc2QzEyLjg4NTMgNDIuNzM3IDEyLjk3MjEgNDIuNTcyMiAxMy4xMzQgNDIuNDUxN0wxMy4wMTE4IDQyLjM4MVpNMzYuODQ0NyAzMy4wODAzQzM2LjY4MTUgMzYuMjEwNCAzMy43ODk3IDM4LjE1OTMgMzAuODk5MyAzOS44MDYxTDMxLjE2MTQgMzkuOTU3MkMzNC4yNDU1IDM5LjA4OTYgMzkuNzQ4NSAzNi41NjI5IDM5LjI5MzYgMzIuNjc5MkMzOS4wNjcgMzAuNzQyNCAzNy4yOTY3IDI5LjM1ODUgMzQuOTg4OCAyOS4zNTg1QzM0LjI3MDEgMjkuMzU4NSAzMy42MzA3IDI5LjQ4NTMgMzMuMTEyNCAyOS42NDMxTDMzLjExMDggMjkuNjQ4MUwzMy4wMDE0IDI5LjkyMzZDMzUuMDY1NiAyOS41MTk2IDM2Ljk1MTkgMzEuMDI3IDM2Ljg0NDcgMzMuMDgwM1YzMy4wODAzWk0xOC41Njc0IDUxLjQ0OUMyNi42ODA0IDUxLjM3ODUgMzUuNzU3OSA0OS43OTA1IDM1LjczNDUgNDcuMTIxNkMzNS43MzAzIDQ2LjYzNzkgMzUuNDE1MyA0Ni4zMDY2IDM1LjE0MTUgNDYuMTA2M0wzNS4wMDg0IDQ2LjE4MjZDMzQuMjU4NCA0OC4yNTAxIDI3LjkxOSA0OS43Nzc2IDE4LjU1MzYgNDkuODU5M0MxMi41MTA1IDQ5LjkxMiA0LjEzOTU2IDQ4LjQ2NDIgNC4xMjQ5MiA0Ni43OTExQzQuMTEwMjkgNDUuMTEzOCA4LjA5MDQ1IDQ0LjE5MiA4LjA5MDQ1IDQ0LjE5Mkw3LjgwOTI1IDQ0LjAzMTNDNS4xNDIwMyA0NC4zOTg1IDAuMjI3NDUzIDQ1LjY3NTkgMC4yNDM2OTIgNDcuNTIwMkMwLjI2NzA5IDUwLjE4NjYgMTEuNTYyIDUxLjUxMDQgMTguNTY3NCA1MS40NDlWNTEuNDQ5Wk0xNy43MjM0IDUzLjM1NDVDMTQuNDk4NyA1My4zODMgMTAuNTYxMSA1My4xMTU5IDcuMjQ4NjcgNTIuNTU5MUw2Ljk0MTk0IDUyLjczNTZDMTAuMjQxNCA1My43MDMxIDE0LjgzNTEgNTQuMjg3NCAxOS44ODI4IDU0LjI0MzVDMjkuNzk1OSA1NC4xNTY3IDM3LjgzMjkgNTEuNjk4NSAzNy45OTE5IDQ4Ljc0MDFMMzcuODc3MSA0OC42NzMzQzM3LjIxMjcgNDkuNDg0MiAzMi45MjUxIDUzLjIyMTkgMTcuNzIzNCA1My4zNTQ1VjUzLjM1NDVaTTUuMzA0NzQgMzIuMzY2NkM1LjMwNDc0IDMwLjg3MTMgMTAuOTc2OCAzMC4wMzI0IDEzLjYxNzcgMjkuODI5MkwxMy44Njk4IDI5Ljk3NDhDMTIuODU1MiAzMC4xNTk0IDguNzg0OSAzMC44NzcyIDguNzg0OSAzMS44MTM2QzguNzg0OSAzMi44MzMyIDE1LjAyNzkgMzMuNTAxNCAxOC42NTE3IDMzLjUwMTRDMjQuODA2NSAzMy41MDE0IDI4Ljk5MDMgMzIuNTY5OCAzMC4xMTU1IDMyLjI2MjdMMzEuNjg5NyAzMy4xNzg4QzMwLjYxMTcgMzMuNzA2NyAyNS45ODM1IDM1LjA5MDIgMTguNjUyMSAzNS4wOTAyQzEwLjUwMzkgMzUuMDkwMiA1LjMwNDc0IDMzLjQ5NTkgNS4zMDQ3NCAzMi4zNjY2JyBmaWxsPSd3aGl0ZScvPjxwYXRoIGQ9J00yOS45Mjc3IDExLjQ2NjRMMjkuNzkxMyAxMS4zODg0QzI3LjMxMzEgMTIuMjE4NCAxOS42ODU0IDE1LjIyOTEgMTkuNjg1NCAyMC44NDI3QzE5LjY4NTQgMjQuMDE3OCAyMi43ODU4IDI1Ljc3NiAyMi43ODU4IDI4Ljc1MzRDMjIuNzg1OCAyOS44MTU1IDIyLjE4NjEgMzAuODExMiAyMS42OTc5IDMxLjQwNjRMMjEuOTQzMyAzMS41NDgzQzIzLjIzMzcgMzAuNzA5NCAyNS41MTg1IDI4Ljg5MzEgMjUuNTE4NSAyNi41NDgxQzI1LjUxODUgMjQuNTYyNCAyMi43NyAyMi4xNzY1IDIyLjc3IDE5LjYyNEMyMi43NyAxNS42MDIyIDI4LjA3MzEgMTIuNDQ2NyAyOS45Mjc3IDExLjQ2NjRWMTEuNDY2NFpNMjYuMTgzNCA0LjEwODcyQzI2LjE4MzQgMTIuNDE3IDE0Ljc5NzYgMTUuNTk2MyAxNC43OTc2IDIxLjUwMzNDMTQuNzk3NiAyNS42NSAxNy41NDc0IDI4LjI1MDUgMTkuMDY4NiAyOS44OTQzTDE4Ljk0NSAyOS45NjU3QzE3LjAyNDQgMjguNzY0MiAxMS45NzA5IDI1Ljc0NDggMTEuOTcwOSAyMC43NTcyQzExLjk3MDkgMTMuNzU1MSAyNS4wNDg2IDEwLjQwOTIgMjUuMDQ4NiAyLjQ1NTZDMjUuMDQ4NiAxLjQ3Njk2IDI0LjkwMzggMC43MjY5NTUgMjQuODAyNCAwLjMyMjE0M0wyNC45MzQ3IDAuMjQ1ODYyQzI1LjM0OTEgMC43NjY3IDI2LjE4MzQgMi4wNjg3NCAyNi4xODM0IDQuMTA4NzInIGZpbGw9J3doaXRlJy8+PC9zdmc+&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">    
+  <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=MySql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+</p>

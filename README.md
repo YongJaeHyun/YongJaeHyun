@@ -28,3 +28,7 @@
   <img src="https://img.shields.io/badge/MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 </p>
+<div align="center">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YongJaeHyun&theme=flag-india&show_icons=true&hide=stars&count_private=true)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YongJaeHyun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>

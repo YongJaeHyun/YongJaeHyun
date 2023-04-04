@@ -38,4 +38,4 @@
 <br />
 <br />
 
-![footer](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&height=80&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=10&section=footer)

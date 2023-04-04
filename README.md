@@ -36,6 +36,5 @@
 </div>
 <br />
 <br />
-<br />
 
-![footer](https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=150&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer)

@@ -34,8 +34,3 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YongJaeHyun&theme=flag-india&show_icons=true&hide=stars&count_private=true)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YongJaeHyun&layout=compact&theme=flag-india)
 </div>
-<br />
-<br />
-<br />
-
-![footer](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=20&section=footer)

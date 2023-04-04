@@ -37,4 +37,4 @@
 <br />
 <br />
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=shark&color=timeGradient&height=120&section=footer)

@@ -35,4 +35,4 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YongJaeHyun&layout=compact&theme=flag-india)
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=200&section=footer&reversal=true)
+![footer](https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=150&section=footer)
